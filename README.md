@@ -55,6 +55,7 @@ The Cross-Chain Rebase Token Protocol is an innovative blockchain solution desig
 ### Requirements
 
 ⦁ git
+
 ⦁ Foundry
 
 ```shell
@@ -70,7 +71,7 @@ curl -L https://raw.githubusercontent.com/matter-labs/foundry-zksync/main/instal
 ### Quickstart
 
 ```shell
-git clone https://github.com//Preciousbas/Crosschain-rebase-token.git
+git clone https://github.com//Preciousbas/Crosschain-rebase-token
 cd Crosschain-rebase-token
 forge install
 forge build
